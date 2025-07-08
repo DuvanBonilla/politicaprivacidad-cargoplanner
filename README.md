@@ -1,2 +1,2 @@
 # politica-privacidad-cargoplanner
-politica-privacidad-cargoplanner
+politicaprivacidad-cargoplanner
